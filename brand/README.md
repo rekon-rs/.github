@@ -38,7 +38,8 @@ The `rekon` mark embodies the two independent axes of engineering effort in the 
 | Preview | Asset | File | Description | Target Use |
 | :---: | :--- | :--- | :--- | :--- |
 | <img src="./logo.svg" width="48" height="48" alt="Primary Logo" /> | **Primary Logo** | [`brand/logo.svg`](./logo.svg) | High-detail vector mark with coordinate reticle and caliper ticks on a transparent background. | Headers, documentation, README heroes, presentations (>= 28px). |
-| <img src="./symbol.svg" width="48" height="48" alt="Symbol" /> | **Symbol / App Icon** | [`brand/symbol.svg`](./symbol.svg) | Primary mark housed inside an obsidian squircle container (`#0f1117`). | Organization avatar, app icon, social previews. |
+| <img src="./symbol.svg" width="48" height="48" alt="Symbol" /> | **Symbol / App Icon (SVG)** | [`brand/symbol.svg`](./symbol.svg) | Primary mark housed inside an obsidian squircle container (`#0f1117`). | Organization avatar, app icon, social previews. |
+| <img src="./symbol.png" width="48" height="48" alt="Symbol PNG" /> | **Symbol / App Icon (PNG)** | [`brand/symbol.png`](./symbol.png) | 512x512 raster PNG icon. | Formats requiring raster PNG (GitHub avatar, Slack, etc.). |
 | <img src="./favicon.svg" width="32" height="32" alt="Favicon" /> | **Optical Favicon** | [`brand/favicon.svg`](./favicon.svg) | Tuned for 16px - 32px pixel grids. Edge-to-edge transparent with responsive light/dark browser tab support. | Browser favicons, bookmarks, status bar icons. |
 
 ### Raw Embedding URLs
