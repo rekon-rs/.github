@@ -9,7 +9,7 @@
 Dual-axis engineering accounting across autonomous agents, code commits, and human focus.
 
 [![GitHub repository](https://img.shields.io/badge/github-rekon--rs%2Frekon-blue?logo=github&style=flat-square)](https://github.com/rekon-rs/rekon)
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue&style=flat-square)](https://github.com/rekon-rs/rekon)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](https://github.com/rekon-rs/rekon/blob/main/LICENSE)
 
 </div>
 
