@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- rekon · Symbol / App Icon (Squircle Canvas) -->
+  <rect width="128" height="128" rx="28" fill="#0f1117" />
+  
+  <!-- Precision Coordinate Reticle (The Cross) -->
+  <line x1="64" y1="16" x2="64" y2="112" stroke="#334155" stroke-width="2" stroke-linecap="round" />
+  <line x1="16" y1="64" x2="112" y2="64" stroke="#334155" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Caliper tick marks along axes -->
+  <line x1="61" y1="32" x2="67" y2="32" stroke="#475569" stroke-width="1.5" />
+  <line x1="61" y1="96" x2="67" y2="96" stroke="#475569" stroke-width="1.5" />
+  <line x1="32" y1="61" x2="32" y2="67" stroke="#475569" stroke-width="1.5" />
+  <line x1="96" y1="61" x2="96" y2="67" stroke="#475569" stroke-width="1.5" />
+
+  <!-- Upper Ledger Bar: Human Attention (Offset West) -->
+  <rect x="22" y="38" width="58" height="14" rx="7" fill="#fb7185" />
+  
+  <!-- Lower Ledger Bar: Machine Compute (Offset East) -->
+  <rect x="48" y="76" width="58" height="14" rx="7" fill="#818cf8" />
+  
+  <!-- Central Fulcrum Node -->
+  <circle cx="64" cy="64" r="10" fill="#f8fafc" />
+  <circle cx="64" cy="64" r="5" fill="#0f1117" />
+  <circle cx="64" cy="64" r="2.5" fill="#38bdf8" />
+</svg>
