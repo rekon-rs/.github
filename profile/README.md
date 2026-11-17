@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rekon-rs/.github/main/brand/symbol.svg" width="96" height="96" alt="rekon logo" />
+<img src="../brand/symbol.svg" width="96" height="96" alt="rekon logo" />
 
 # rekon
 
@@ -8,8 +8,8 @@
 
 Dual-axis engineering accounting across autonomous agents, code commits, and human focus.
 
-[![GitHub repository](https://img.shields.io/badge/github-rekon--rs%2Frekon-blue?logo=github)](https://github.com/rekon-rs/rekon)
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)](https://github.com/rekon-rs/rekon)
+[![GitHub repository](https://img.shields.io/badge/github-rekon--rs%2Frekon-blue?logo=github&style=flat-square)](https://github.com/rekon-rs/rekon)
+[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue&style=flat-square)](https://github.com/rekon-rs/rekon)
 
 </div>
 
